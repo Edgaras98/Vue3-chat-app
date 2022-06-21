@@ -1,24 +1,8 @@
-# firechat-app
+### Description
 
-## Project setup
-```
-npm install
-```
+Simple chat app made with Vue 3 and Firebase as a backend service
 
-### Compiles and hot-reloads for development
+### starting the project
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
